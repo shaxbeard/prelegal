@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mutual NDA",
+    "description": "A standard mutual non-disclosure agreement for parties to share confidential information while evaluating a potential business relationship. Created by a committee of over 40 attorneys.",
+    "filename": "Mutual-NDA.md"
+  },
+  {
+    "name": "Mutual NDA Cover Page",
+    "description": "The cover page template for the Mutual NDA, containing fillable fields for purpose, effective date, term, confidentiality period, governing law, and signature blocks.",
+    "filename": "Mutual-NDA-coverpage.md"
+  },
+  {
+    "name": "Cloud Service Agreement (CSA)",
+    "description": "A comprehensive agreement for selling and buying cloud software and SaaS products, covering service terms, restrictions, privacy, payment, termination, warranties, liability, indemnification, and confidentiality.",
+    "filename": "CSA.md"
+  },
+  {
+    "name": "Service Level Agreement (SLA)",
+    "description": "A standard service level agreement designed to be used with the Cloud Service Agreement, covering uptime targets, response time targets, service credits, and remedies.",
+    "filename": "SLA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "An agreement for early-access design partner programs, allowing a partner to access a product early in exchange for feedback and participation in the product development program.",
+    "filename": "Design-Partner-Agreement.md"
+  },
+  {
+    "name": "Professional Services Agreement (PSA)",
+    "description": "A standard agreement for professional services engagements, covering service delivery, intellectual property ownership of deliverables, payment, warranties, liability, and confidentiality.",
+    "filename": "PSA.md"
+  },
+  {
+    "name": "Data Processing Agreement (DPA)",
+    "description": "A data processing agreement for GDPR and international data protection compliance, covering processor/subprocessor relationships, data transfers, security incidents, audits, and deletion of personal data.",
+    "filename": "DPA.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "A standard partnership agreement for business collaborations, covering mutual obligations, trademark licensing, payment, confidentiality, indemnification, and termination.",
+    "filename": "Partnership-Agreement.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "A comprehensive agreement for licensing on-premise or installable software, covering license grants, restrictions, open source components, updates, payment, warranties, liability, and confidentiality.",
+    "filename": "Software-License-Agreement.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "A short-term agreement for prospective customers to test and evaluate a product before committing to a longer-term deal, with limited scope and easier termination terms.",
+    "filename": "Pilot-Agreement.md"
+  },
+  {
+    "name": "Business Associate Agreement (BAA)",
+    "description": "A HIPAA-compliant business associate agreement governing the use and disclosure of protected health information (PHI), covering safeguards, subcontractors, breach notification, and data rights.",
+    "filename": "BAA.md"
+  },
+  {
+    "name": "AI Addendum",
+    "description": "An addendum for agreements involving AI services, covering AI-specific terms for input/output ownership, model training restrictions, non-training improvement, and disclaimers about the nature of AI-generated content.",
+    "filename": "AI-Addendum.md"
+  }
+]

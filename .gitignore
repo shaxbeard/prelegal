@@ -1,0 +1,111 @@
+# ============================================================
+# Python / FastAPI
+# ============================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# mypy / pyright
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyright/
+
+# ruff / linting
+.ruff_cache/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Alembic (database migrations generated artifacts)
+# alembic/versions/ — keep tracked; uncomment to ignore generated migrations
+
+# ============================================================
+# Next.js / Node
+# ============================================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Production build
+build/
+
+# Caches
+.eslintcache
+.stylelintcache
+*.tsbuildinfo
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+*.pem
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.js.map
+
+# Vercel
+.vercel
+
+# Turbopack
+.turbo
+
+# ============================================================
+# IDEs / Editors
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ============================================================
+# OS
+# ============================================================
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Misc
+# ============================================================
+*.log
+*.tmp
+*.bak
